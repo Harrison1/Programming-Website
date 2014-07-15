@@ -1,0 +1,52 @@
+#newform {
+	width: 470px;
+	height: auto;
+	background-image: url(http://i1295.photobucket.com/albums/b638/harrison13/Carousel%20Slides/15_zps2f9d86eb.jpg);
+	padding: 0px 1%;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+
+body {
+	font-family: "Open Sans", Arial, sans-serif;
+	font-size: 20px;
+	font-weight: 500;
+	color: #000;
+}
+
+input{
+	width: 100%;
+	height: 40px;
+	width: 100%;
+	font: 300 24px "Open Sans", Arial, sans-serif;
+	margin: 5px 0px 10px 0px;
+}
+
+input[type=submit] {
+	background-color: #C13A40;
+	height: 50px;
+	width: 100%;
+	border: none;
+	border-radius: 5px;
+	font-weight: 400;
+	font-style: italic;
+	letter-spacing: 2px;
+	color: #FFFFFF;
+	background-color: #FF1975;
+	
+}
+
+input[type=submit]:hover {
+	background-color: #30FF30;
+}
+
+h2{
+	font-size: 40px;
+	color: #FF1975;
+	text-shadow: 1px 1px #FFF;
+	font-family: "Open Sans";
+	border-bottom: 2px solid #FFF;
+	text-align: center;
+	margin: 0px 0px 5px 0px;
+}
